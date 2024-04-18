@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Appassionato di tutto ciò che riguarda il mondo informatico, sono in costante studio per accrescere le mie competenze.<br>🎯 Miro a trovare una posizione che possa formare la mia creatività e autonomia del codice, anche dal punto di vista professionale e personale.<br>✨ Passione per la lettura e scrittura di testi brevi e romanzi.</p>
+<p align="left">📚 Appassionato di tutto ciò che riguarda il mondo informatico, sono in costante studio per accrescere le mie competenze.<br><br>🎯 Miro a trovare una posizione che possa formare la mia creatività e autonomia del codice, anche dal punto di vista professionale e personale.<br><br>✨ Passione per la lettura e scrittura di testi brevi e romanzi.</p>
 
 ###
 
