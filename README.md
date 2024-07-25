@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi chiamo Francesco, ho 24 anni, sono un aspirante sviluppatore, con competenze in front-end e back-end.</p>
+<p align="left">Mi chiamo Francesco, ho 24 anni, sono un full stack developer junior, con competenze in front-end e back-end.</p>
 
 ###
 
