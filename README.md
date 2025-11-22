@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://www.sencha.com/wp-content/uploads/2016/05/Ext-JS-logo.png" height="40" alt="extjs logo" />
+  <img src="https://logo.svgcdn.com/l/sencha.svg" height="40" alt="Sencha logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
